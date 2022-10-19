@@ -1,0 +1,19 @@
+{
+  "name": "fg-storehouse",
+  "version": "1.0.0",
+  "description": "fg storehouse",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abram-stack/fg-storehouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abram-stack/fg-storehouse/issues"
+  },
+  "homepage": "https://github.com/abram-stack/fg-storehouse#readme"
+}
